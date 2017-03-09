@@ -1,2 +1,2 @@
 # curly-more
-This is an example of a project page. Hello
+This is an example of a project page.
